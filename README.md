@@ -5,6 +5,12 @@ My interface design for a pamphlet introducing NYC (my beloved city) and its pop
   <img width="600" src="images/fig1.PNG">
 </p>
 
+The experience starts when user head the phone to the following target image:
+
+<p align="center">
+  <img width="300" src="images/target.png">
+</p>
+
 Check out the demo video here () and some snapshots of the experience:
 
 <p align="center">
