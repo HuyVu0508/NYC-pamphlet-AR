@@ -11,7 +11,7 @@ The experience starts when user head the phone to the following target image:
   <img width="300" src="images/target.png">
 </p>
 
-Check out the demo video here () and some snapshots of the experience:
+Check out the demo video here (https://youtu.be/nzO9tnHqkmA) and some snapshots of the experience:
 
 <p align="center">
   <img width="400" src="images/fig2.PNG">
